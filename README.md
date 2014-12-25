@@ -1,4 +1,0 @@
-hello-jenkins
-=============
-
-Kobi Rep
