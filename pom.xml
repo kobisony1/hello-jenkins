@@ -22,7 +22,6 @@
   <groupId>org.jacoco</groupId>
 	<artifactId>jacoco-maven-plugin</artifactId>
 	<version>0.7.5.201505241946</version>
-	<excutions>
 		<excution>
 			<id>post-unit-test>
 				<phase>test</phase>
@@ -30,7 +29,6 @@
 						<goal>report</goal>
 						</goals>
 						</excution>
-						</excutions>
 						</plugin>
 						</plugins>
 						</build>
