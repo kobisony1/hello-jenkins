@@ -28,10 +28,10 @@
 					<goals>
 						<goal>report</goal>
 						</goals>
-						</excution>
+						</excution-->
 						</plugin>
 						</plugins>
-						</build-->
+						<build>
 						
 						
   
